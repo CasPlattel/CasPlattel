@@ -6,6 +6,12 @@ My name is Cas Plattel and I'm an engineer who loves to code!
 - 💜 Favorite language: Kotlin!
 - 🧗 Favorite hobby: Bouldering
 
+# Talks
+
+- [Your new favorite Kotlin libraries!](https://www.youtube.com/watch?v=Ukhp7E8Y1e4)
+- Kotlin workshop (Koans - learning Kotlin)
+- [Test long and prosper](https://www.youtube.com/watch?v=TpHOk_HlFyo) (Using Spock in production)
+
 # Contact
 
 For recruiter spam
