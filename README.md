@@ -20,3 +20,7 @@ For recruiter spam
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=casplattel&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="github stats for casplattel" width="50%"/>
 </p> -->
+
+# Stats
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=casplattel&theme=gruvbox&hide_border=true&border_radius=5&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats) 
