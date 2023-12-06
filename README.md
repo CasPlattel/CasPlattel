@@ -16,11 +16,9 @@ My name is Cas Plattel and I'm an engineer who loves to code!
 
 For recruiter spam
 * [Cas Plattel on LinkedIn](https://nl.linkedin.com/in/cas-plattel)
-<!-- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=casplattel&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="github stats for casplattel" width="50%"/>
-</p> -->
 
 # Stats
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=casplattel&theme=gruvbox&hide_border=true&border_radius=5&mode=weekly&exclude_days=Sun%2CSat)](https://git.io/streak-stats) 
+
+ ![Contributions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=casplattel&theme=gruvbox) 
