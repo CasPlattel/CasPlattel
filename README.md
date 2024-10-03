@@ -4,7 +4,7 @@ My name is Cas Plattel and I'm an engineer who loves to code!
 
 - ⚡️ Currently working at Alliander
 - 💜 Favorite languages: Kotlin & Python!
-- 🚴‍♂️ Favorite hoies:yBouldering & : Cycling
+- 🚴‍♂️ Favorite hobbies: Bouldering & : Cycling
 
 # Talks
 
